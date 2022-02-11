@@ -40,7 +40,7 @@
 							<applicationName>My_Application</applicationName>
 							<environment>Sandbox</environment>
 							<workers>1</workers>
-							<workersType>Micro</workersType>
+							<workerType>Micro</workerType>
 							<objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>
 				</configuration>
