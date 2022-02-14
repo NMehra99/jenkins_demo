@@ -37,7 +37,7 @@
 							<muleVersion>4.4.0</muleVersion>
 							<username>narendra111</username>
 							<password>Mytime@123</password>
-							<applicationName>My_Application</applicationName>
+							<applicationName>My-Application</applicationName>
 							<environment>Sandbox</environment>
 							<workers>1</workers>
 							<workerType>Micro</workerType>
